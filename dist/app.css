@@ -1,0 +1,24 @@
+body {
+  background-color: #ffc107;
+}
+
+h2, h1 {
+  font-size: 40px;
+  color: #0cd977;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 22px;
+  color: #001632;
+}
+
+button {
+  font-size: 40px;
+  border: transparent;
+  padding: 30px;
+  color: #cecece;
+  background-color: #0cd977;
+  text-transform: uppercase;
+  border-radius: 20px;
+}

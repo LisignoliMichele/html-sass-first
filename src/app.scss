@@ -1,0 +1,29 @@
+$blueBoolean: #001632;
+$greenBoolean: #0cd977;
+$FontWhite: #cecece;
+$colorBGs: #ffc107; 
+$fontP: 22px;
+$fontT: 40px;
+$radius: 20px;
+
+body{
+   background-color: $colorBGs;
+}
+h2, h1{
+   font-size: $fontT;
+   color: $greenBoolean;
+   text-transform: uppercase;
+}
+p{
+   font-size: $fontP;
+   color: $blueBoolean;
+}
+button{
+   font-size: $fontT;
+   border: transparent;
+   padding: 30px;
+   color: $FontWhite;
+   background-color: $greenBoolean;
+   text-transform: uppercase;
+   border-radius: $radius;
+}
